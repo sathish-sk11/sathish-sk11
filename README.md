@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Front-end Web Development**
 
-- 💬 Ask me about **HTML 5,CSS,JavaScript**
+- 💬 Ask me about **HTML 5,CSS 3, JS, SQL...**
 
 - 📫 How to reach me **skmech333@gmail.com**
 
-- ⚡ Fun fact **I am a Tea addict...**
+- ⚡ Fun fact **I am a full time Foodie and part time Techie...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
